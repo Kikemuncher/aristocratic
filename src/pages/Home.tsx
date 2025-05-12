@@ -71,7 +71,7 @@ const Home: React.FC = () => {
                 <ul className="team-list">
                     <li className="team-member">
                         <div className="team-member-name">Jacob Cordes</div>
-                        <div className="team-member-role">Owner / Founder</div>
+                        <div className="team-member-role">Founder</div>
                         <p className="team-member-bio">Visionary entrepreneur with expertise in social platform architecture and user experience design. Jacob leads our strategic direction and platform innovation initiatives.</p>
                     </li>
                     <li className="team-member">
